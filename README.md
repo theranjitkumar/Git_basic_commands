@@ -8,9 +8,9 @@
   </tr>
   <tr>
     <td> Tell Git who you are 
-    <td width="300px"> Configure the author name and email address to be used with your commits.
+    <td width="320px"> Configure the author name and email address to be used with your commits.
 Note that Git strips some characters (for example trailing periods) from user.name. 
-    <td width="3800px"> git config --global user.name "Sam Smith" <br>
+    <td width="400px"> git config --global user.name "Sam Smith" <br>
 git config --global user.email sam@example.com 
   </tr>
   <tr>
