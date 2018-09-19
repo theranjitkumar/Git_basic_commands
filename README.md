@@ -12,18 +12,7 @@ git config --global user.email sam@example.com |
 | ` ` |  |  |
 | ` ` |  |  |
 | ` ` |  |  |
-| ` ` |  |  |
-| ` ` |  |  |
-| ` ` |  |  |
-| ` ` |  |  |
-| ` ` |  |  |
-| ` ` |  |  |
-| ` ` |  |  |
-| ` ` |  |  |
-| ` ` |  |  |
-| ` ` |  |  |
-| ` ` |  |  |
-| ` ` |  |  |
+
 
 <table>
   <tr>
@@ -34,8 +23,14 @@ Note that Git strips some characters (for example trailing periods) from user.na
 git config --global user.email sam@example.com <td>
   </tr>
   <tr>
-    <td>  <td> <td>  <td> <td>  <td> 
-    <td>  <td> <td>  <td> <td>  <td> 
+    <td> Create a new local repository <td> 
+    <td>   <td> 
+    <td> git init <td> 
+    </tr>
+  <tr>
+    <td> Check out a repository <td> 
+    <td> Create a working copy of a local repository: <td> 
+    <td> git clone /path/to/repository <td> 
   </tr>
 </table>
 
