@@ -99,6 +99,11 @@ git config --global user.email sam@example.com
     <td> git push origin :<branchname>
   </tr>
   <tr>
+    <td> 
+    <td> To list remote branches: 
+    <td> git branch -r
+  </tr>      
+  <tr>
     <td> ***Update from the remote repository***
     <td> Fetch and merge changes on the remote server to your working directory:  
     <td> git pull
