@@ -16,21 +16,21 @@ git config --global user.email sam@example.com |
 
 <table>
   <tr>
-    <td> Tell Git who you are <td> 
-    <td> Configure the author name and email address to be used with your commits.
-Note that Git strips some characters (for example trailing periods) from user.name. <td> 
-    <td> git config --global user.name "Sam Smith" <br>
-git config --global user.email sam@example.com <td>
+    <td> Tell Git who you are 
+    <td width="300px"> Configure the author name and email address to be used with your commits.
+Note that Git strips some characters (for example trailing periods) from user.name. 
+    <td width="500px"> git config --global user.name "Sam Smith" <br>
+git config --global user.email sam@example.com 
   </tr>
   <tr>
-    <td> Create a new local repository <td> 
-    <td>   <td> 
-    <td> git init <td> 
+    <td> Create a new local repository 
+    <td>   
+    <td> git init 
     </tr>
   <tr>
-    <td> Check out a repository <td> 
-    <td> Create a working copy of a local repository: <td> 
-    <td> git clone /path/to/repository <td> 
+    <td> Check out a repository 
+    <td> Create a working copy of a local repository: 
+    <td> git clone /path/to/repository 
   </tr>
 </table>
 
