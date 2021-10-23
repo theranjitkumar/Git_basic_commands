@@ -153,36 +153,6 @@ Changes already added to the index, as well as new files, will be kept.
     <td> Search	
     <td> Search the working directory for foo():  
     <td> git grep "foo()"
-  </tr>
-  <tr>
-    <td> 
-    <td>   
-    <td> 
-  </tr>
-  <tr>
-    <td> 
-    <td>   
-    <td> 
-  </tr>
-  <tr>
-    <td> 
-    <td>   
-    <td> 
-  </tr>
-  <tr>
-    <td> 
-    <td>   
-    <td> 
-  </tr>
-  <tr>
-    <td> 
-    <td>   
-    <td> 
-  </tr>
-  <tr>
-    <td> 
-    <td>   
-    <td> 
-  </tr>    
+  </tr> 
 </table>
 
